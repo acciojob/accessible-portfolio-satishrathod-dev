@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+#css{
+	background-color: skyblue;
+	border: 10px solid black;
+	padding: 10px;
+	margin: 10px;
+}
+
+.font{
+	font-size: 30px;
+}
+
+#img{
+	border: 2px solid black;
+}
